@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ParseTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2015-12-10T17:57:14" hostname="lgl" time="0.011">
+  <properties/>
+  <testcase name="should_get_right_data_when_parse_cart" classname="ParseTest" time="0.007"/>
+  <testcase name="should_get_right_data_when_parse_discount" classname="ParseTest" time="0.001"/>
+  <testcase name="should_get_right_data_when_parse_second_half" classname="ParseTest" time="0.001"/>
+  <testcase name="should_get_right_data_when_parse_itemlist" classname="ParseTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
